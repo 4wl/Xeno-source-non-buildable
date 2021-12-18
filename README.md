@@ -8,6 +8,6 @@ If you can give some help, add my discord M3dusa.#1389, thanks.
 
 ---------
 
-https://github.com/XenoClientDevelopment/Xeno-Client
+https://github.com/XenoClientDevelopment/Xeno-Client <- this is original jar
 
 here to download jar
