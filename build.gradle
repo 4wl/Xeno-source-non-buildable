@@ -55,7 +55,6 @@ dependencies {
     compile 'com.moandjiezana.toml:toml4j:0.7.2'
     compile 'com.github.ZeroMemes:Alpine:1.5'
     compile 'net.jodah:typetools:0.5.0'
-    compile 'com.mojang.brigadier:brigadier:1.0.18'
     compile group: 'net.sourceforge.htmlunit', name: 'htmlunit', version: '2.23'
     compile group: "com.googlecode.json-simple", name: "json-simple", version: "1.1.1"
 }
@@ -92,7 +91,6 @@ shadowJar {
         include(dependency('net.sourceforge.htmlunit:htmlunit'))
         include(dependency('club.minnced:java-discord-rpc'))
         include(dependency('com.moandjiezana.toml:toml4j'))
-        include(dependency('com.mojang.brigadier:brigadier'))
         include(dependency('com.googlecode.json-simple:json-simple:1.1.1'))
     }
 
